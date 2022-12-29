@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/layout105"
+    android:layout_height="@dimen/layout170"
+    app:cardBackgroundColor="@color/white"
+    app:contentPadding="2dp"
+    app:cardCornerRadius="@dimen/radius"
+    android:layout_marginRight="@dimen/padding5"
+   >
+
+    <ImageView
+        android:id="@+id/imgps"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/merry_christmas"
+        android:scaleType="fitXY"
+       />
+
+    <TextView
+        android:id="@+id/tvpc2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextViewTextViewTextView"
+        android:layout_gravity="bottom"
+        android:textColor="@color/white"
+        android:textSize="@dimen/size14"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvps"
+        android:layout_gravity="center|left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="@dimen/size16"
+        android:layout_marginBottom="@dimen/margin15"
+        android:text="TextViewTexttView" />
+
+
+</androidx.cardview.widget.CardView>

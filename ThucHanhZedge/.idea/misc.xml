@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable-v24/admob_close_button_black_circle_white_cross.xml" value="0.3535" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3535" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable-v24/ic_zedge_login_logo.xml" value="0.3535" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/bg_splash.xml" value="0.298" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1925" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/ic_menu.xml" value="0.298" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/ic_plus.xml" value="0.3535" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/ic_search.xml" value="0.298" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/drawable/zedge_logo_tm.xml" value="0.298" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/font/font.xml" value="0.390625" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/activity_main2.xml" value="0.184375" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/activity_popup.xml" value="0.36041666666666666" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/activity_splash.xml" value="0.184375" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/fragment_categories.xml" value="0.184375" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemcate1.xml" value="0.25" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemcate2.xml" value="0.3614583333333333" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemcate3.xml" value="0.3614583333333333" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemcate4.xml" value="0.3614583333333333" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemhome1.xml" value="0.184375" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemhome2.xml" value="0.3473731884057971" />
+        <entry key="..\:/Hanh/Workspace/TPEntertainment/ThucHanhZedge/app/src/main/res/layout/itemhome3.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18133333333333335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

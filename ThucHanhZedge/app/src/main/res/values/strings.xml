@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Zedge</string>
+    <string name="z10">Z10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment0">Home</string>
+    <string name="fragment1">Categories</string>
+    <string name="slogan">everything you</string>
+    <string name="Hometv1">Featured</string>
+    <string name="Hometv2">Popular Collections</string>
+    <string name="Hometv3">Popular</string>
+    <string name="Hometv4">SEE MORE</string>
+    <string name="Catetv1">Popular Searches</string>
+    <string name="Catetv2">Color</string>
+    <string name="Catetv3">Ideas for you</string>
+    <string name="Catetv4">Categories</string>
+    <string name="popup1">Clean Ad-free experience</string>
+    <string name="popup2">Choose your plan</string>
+    <string name="popup3">3 DAYS FREE</string>
+    <string name="popup4">Monthly</string>
+    <string name="popup5">Yearly</string>
+    <string name="popup6">23.000 đ/month</string>
+    <string name="popup7">89.950 đ/year</string>
+    <string name="popup8">SAVE 60%</string>
+    <string name="popup9">Start free trial</string>
+    <string name="popup10">An auto-renewable subcription will be activated at the end of the select period.</string>
+    <string name="popup11">Our Terms of Services applies to all purchase</string>
+
+
+</resources>

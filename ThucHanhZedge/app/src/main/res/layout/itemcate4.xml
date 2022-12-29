@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layout70"
+    app:cardCornerRadius="@dimen/radius"
+    android:layout_marginTop="@dimen/padding5"
+    android:layout_marginLeft="@dimen/padding5"
+   >
+
+    <ImageView
+        android:id="@+id/imgcate"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/merry_christmas"
+        android:scaleType="centerCrop"
+       />
+
+    <TextView
+        android:id="@+id/tvcate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:gravity="center"
+        android:layout_gravity="center"
+        style="@style/CodeFont"
+        />
+
+</androidx.cardview.widget.CardView>
